@@ -1,4 +1,4 @@
-package com.timwang.algorithm.warmup;
+package com.timwang.algorithm.warmup.node;
 
 /**
  * @author wangjun
@@ -17,6 +17,7 @@ public class ReverseNode {
             curr = next;
         }
         return prev;
+
     }
 
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.timwang.algorithm.warmup;
+package com.timwang.algorithm.warmup.node;
 
 /**
  * @author wangjun
